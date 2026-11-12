@@ -1,1 +1,0 @@
-# GS_2026_Automa-o_Com_Python_571097_571528_570774_1CCPJ
