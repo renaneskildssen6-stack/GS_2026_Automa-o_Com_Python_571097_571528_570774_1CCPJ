@@ -1,0 +1,5 @@
+Nome do assistente: Citizen Assist AI
+Público atendido: Jovens no primeiro emprego
+Integrantes e RM: Renan Eskildssen - 571097 | Lucas Barros - 571528 | Murillo Boyajian - 570774
+Link do repositório GitHub: https://github.com/renaneskildssen6-stack/GS_2026_Automa-o_Com_Python_571097_571528_570774_1CCPJ-
+Link do vídeo técnico no YouTube: <COLAR AQUI O LINK DO VÍDEO>
